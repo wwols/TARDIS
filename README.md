@@ -1,6 +1,6 @@
 # TARDIS
 
-**T**ransient **A**bsorption **R**apid **D**ata **I**ntegration **S**ystem
+**T**ransient **A**bsorption **R**adiation **D**etection and **I**maging **S**ystem
 
 A PyQt6-based GUI for controlling and simulating transient absorption spectroscopy measurements with real-time spectral displays.
 
@@ -80,7 +80,7 @@ TARDIS/
 
 ## Author
 
-**wwols**
+**Weronika W. Wolszczak** (2026)
 
 ## License
 
